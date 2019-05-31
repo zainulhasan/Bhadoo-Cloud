@@ -1,5 +1,4 @@
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FParveenBhadooOfficial%2FBhadooCloud.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FParveenBhadooOfficial%2FBhadooCloud?ref=badge_shield)
 
 # BhadooCloud
 
@@ -118,7 +117,3 @@ Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embet
 License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
 
 Contributions are Welcome.
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FParveenBhadooOfficial%2FBhadooCloud.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FParveenBhadooOfficial%2FBhadooCloud?ref=badge_large)
