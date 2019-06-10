@@ -122,7 +122,7 @@ License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/L
 
 Contributions are Welcome.
 
-## Supported By :thumbsup:
+## Supported By
 
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
