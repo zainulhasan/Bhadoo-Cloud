@@ -1,8 +1,6 @@
-![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
+<div align="center">
 
-# BhadooCloud
-
-Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
+# :sun_behind_large_cloud: BhadooCloud
 
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
@@ -17,6 +15,12 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/parveenbhadooofficial/bhadoocloud.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)
+
+</div>
+
+Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
+
+![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
 # Usage
 
@@ -117,3 +121,9 @@ Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embet
 License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
 
 Contributions are Welcome.
+
+## Supported By :thumbsup:
+
+[![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
+
+Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-) 
