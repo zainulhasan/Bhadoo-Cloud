@@ -1,4 +1,4 @@
-# :sun_behind_large_cloud: BhadooCloud
+# BhadooCloud
 
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
