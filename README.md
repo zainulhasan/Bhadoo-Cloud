@@ -102,7 +102,7 @@ Fill `***` with appropriate values from Google Developer Console.
 ```
   docker images -a
   
-  docker rmi Image Image
+  docker rmi Image Image2
 ```
 
 Replace Image with Docker Image ID
