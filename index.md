@@ -1,5 +1,3 @@
-# Bhadoo Cloud
-
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
 Open URLs in Proxy to bypass Restrictions (works like VPN)
@@ -77,7 +75,10 @@ Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 * Close Putty and Login again.
 
 ```
-  docker run --name ct -d -p 80:80 --restart always -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***' parveenbhadoo/bhadoocloud node server/server.js --port 80
+  docker run --name ct -d -p 80:3000 \
+    --restart always \
+    -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' \
+    parveenbhadoo/bhadoocloud node server/server.js
 ```
 
 Fill `***` with appropriate values from Google Developer Console.
