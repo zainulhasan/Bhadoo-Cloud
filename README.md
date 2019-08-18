@@ -18,8 +18,6 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 
 </div>
 
-Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
-
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
 # Usage
