@@ -20,6 +20,11 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
+# Available Servers
+
+Check for Available Servers [Here](https://github.com/ParveenBhadooOfficial/BhadooCloud/wiki/Available-Servers).
+If you're using or interested in providing Free Server, comment [here](https://github.com/ParveenBhadooOfficial/BhadooCloud/issues/11).
+
 # Usage
 
 Info: Heroku is not supported, Use AWS EC2 (1 Year Free), G Cloud (300$ for 1 Year Free), MS Azure (30 Days Free) for Bhadoo Cloud Installations.
@@ -129,4 +134,4 @@ Contributions are Welcome.
 
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
-Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-) 
+Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
