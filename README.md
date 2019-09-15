@@ -20,6 +20,8 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
+This Project's documentation will be updated shortly.
+
 # Available Servers
 
 Check for Available Servers [Here](https://github.com/ParveenBhadooOfficial/BhadooCloud/wiki/Available-Servers).
@@ -135,3 +137,5 @@ Contributions are Welcome.
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
+
+Document Last Updated on 7:39 am Sunday, 15 September 2019 (IST).
