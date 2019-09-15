@@ -22,11 +22,6 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 
 This Project's documentation will be updated shortly.
 
-# Available Servers
-
-Check for Available Servers [Here](https://github.com/ParveenBhadooOfficial/BhadooCloud/wiki/Available-Servers).
-If you're using or interested in providing Free Server, comment [here](https://github.com/ParveenBhadooOfficial/BhadooCloud/issues/11).
-
 # Usage
 
 Info: Heroku is not supported, Use AWS EC2 (1 Year Free), G Cloud (300$ for 1 Year Free), MS Azure (30 Days Free) for Bhadoo Cloud Installations.
@@ -110,7 +105,7 @@ Fill `***` with appropriate values from Google Developer Console.
   docker rmi Image Image2
 ```
 
-Replace Image with Docker Image ID
+Replace Image with Docker Image ID (Multiple Supported)
 
 # Get Google_Client_ID and Secret
 
@@ -138,4 +133,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 7:39 am Sunday, 15 September 2019 (IST).
+Document Last Updated on 7:44 am Sunday, 15 September 2019 (IST).
