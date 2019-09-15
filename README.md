@@ -20,7 +20,7 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
-This Project's documentation will be updated shortly.
+This Project's documentation will be updated shortly including Video's.
 
 # Usage
 
@@ -121,6 +121,10 @@ Replace Image with Docker Image ID (Multiple Supported)
 * Copy your details and use above.
 * `GOOGLE_REDIRECT_URL` is same as `Authorized redirect URIs`
 
+# Resources
+
+* subdomain.bhadoocloud.ga are available to use with our Google Credentials. Email admin[at]hashhackers[dot]com
+
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
 License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
@@ -133,4 +137,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 7:44 am Sunday, 15 September 2019 (IST).
+Document Last Updated on 7:47 am Sunday, 15 September 2019 (IST).
