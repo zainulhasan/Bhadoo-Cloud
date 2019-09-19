@@ -156,6 +156,17 @@
 		<div class="row">
 			<div class="column">
 				<p><strong>© 2019 Bhadoo Cloud & Respected Owners | All Rights Reserved.</strong></p>
+				<!--login button-->
+				<img ng-src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png" title="Sign in with Google" ng-click="redirectToLoginUrl(selectedCloud.url)" class="ui circular icon" ng-class="{
+						'loading spinner':!selectedCloud,
+						'disabled':(!selectedCloud || selectedCloud.creds),
+						'green inverted':selectedCloud.creds,
+						'link':(!selectedCloud || !selectedCloud.creds),
+						'user':selectedCloud
+					}">
+
+				<i style="display: none" class="ui lock link circular icon" ng-click="toggleIncognito()" ng-class="{'inverted':incognito,'red':incognito}"
+				 title="Incognito"></i>
 			</div>
 		</div>
 	</div>
