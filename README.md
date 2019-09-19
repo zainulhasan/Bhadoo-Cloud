@@ -18,7 +18,8 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 
 </div>
 
-![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
+[<img src="https://img.youtube.com/vi/ynRkZ1OaQSQ/maxresdefault.jpg" >](https://youtu.be/ynRkZ1OaQSQ)
+Above Video only provides information on How to use Bhadoo Cloud Server to Upload Files to Google Drive.
 
 This Project's documentation will be updated shortly including Video's.
 
@@ -137,4 +138,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 7:47 am Sunday, 15 September 2019 (IST).
+Document Last Updated on 5:03 pm Sunday, 19 September 2019 (IST).
