@@ -18,10 +18,7 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 
 </div>
 
-[<img src="https://img.youtube.com/vi/ynRkZ1OaQSQ/maxresdefault.jpg" >](https://youtu.be/ynRkZ1OaQSQ)
-Above Video only provides information on How to use Bhadoo Cloud Server to Upload Files to Google Drive.
-
-This Project's documentation will be updated shortly including Video's.
+![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/.github/screenshot02.png)
 
 # Usage
 
@@ -126,6 +123,13 @@ Replace Image with Docker Image ID (Multiple Supported)
 
 * subdomain.bhadoocloud.ga are available to use with our Google Credentials. Email admin[at]hashhackers[dot]com
 
+* [How to install Bhadoo Cloud on Amazon Web Services (AWS)](https://youtu.be/yhsQU6uXNMA)
+
+* [How to use Bhadoo Cloud to Upload Torrents or Files to Google Drive](https://youtu.be/ynRkZ1OaQSQ)
+
+* [How to remove Docker Images from AWS Server to Fetch Latest Images](https://youtu.be/SGrB0oo8F_4)
+
+
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
 License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
@@ -138,4 +142,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 5:03 pm Sunday, 19 September 2019 (IST).
+Document Last Updated on 5:58 pm Sunday, 19 September 2019 (IST).
