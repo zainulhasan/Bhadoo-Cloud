@@ -1,8 +1,16 @@
+<!--
+A Parveen Bhadoo Project (https://www.parveenbhadoo.com)
+Published at SourceForge.net/projects/BhadooCloud and Github.com/ParveenBhadooOfficial/Bhadoo-Cloud
+Project Info is available at https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud/blob/master/README.md 
+Edited and CDN Enabled from https://github.com/Mrigank11/embetacloud
+Open Source Software, All Rights Reserved by their Respected Owners.
+-->
 <!DOCTYPE html>
 <html ng-app="app">
 
 <head>
-	<title>Bhadoo Cloud</title>
+	<title>Bhadoo Cloud - Directly Upload to Google Drive from Torrent or URLs</title>
+	<meta name="robots" content="noindex">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooCloud@1.0/static/libs/semantic/dist/semantic.min.css" integrity="sha256-hq8jzEEtzNDAbLdCrrDfrRUCgL9NY73htrqqpZ6PzEc=" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooCloud@1.0/static/css/index.css" integrity="sha256-iZRUokDd4hKazBECAwFZuMW1ry2bLh0gIeK4DLy7TjU=" crossorigin="anonymous">
@@ -15,9 +23,7 @@
 		<div class="equal width row">
 			<!--logo-->
 			<div class="left floated column">
-				<h2 style="color:#2185d0;">
-					<i class="ui large blue cloud icon"></i> BCloud
-				</h2>
+			<a href="/"><img border="0" alt="Bhadoo Cloud" src="https://cdn.jsdelivr.net/gh/HashHackers/logo/logo-d.svg" height="25px"></a><!--New Logo in Time-->
 			</div>
 			<!--controls-->
 			<div class="column right floated right aligned">
@@ -155,7 +161,6 @@
 		
 		<div class="row">
 			<div class="column">
-				<p><strong>© 2019 Bhadoo Cloud & Respected Owners | All Rights Reserved.</strong></p>
 				<!--login button-->
 				<img ng-src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png" title="Sign in with Google" ng-click="redirectToLoginUrl(selectedCloud.url)" class="ui circular icon" ng-class="{
 						'loading spinner':!selectedCloud,
@@ -167,6 +172,7 @@
 
 				<i style="display: none" class="ui lock link circular icon" ng-click="toggleIncognito()" ng-class="{'inverted':incognito,'red':incognito}"
 				 title="Incognito"></i>
+				<p><strong>© <a href="https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud">Bhadoo Cloud</a> & Respected Owners | All Rights Reserved.</strong></p>
 			</div>
 		</div>
 	</div>
