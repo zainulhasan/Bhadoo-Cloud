@@ -123,11 +123,13 @@ Replace Image with Docker Image ID (Multiple Supported)
 
 * subdomain.bhadoocloud.ga are available to use with our Google Credentials. Email admin[at]hashhackers[dot]com
 
-* [How to install Bhadoo Cloud on Amazon Web Services (AWS)](https://youtu.be/yhsQU6uXNMA)
+* [Video: How to install Bhadoo Cloud on Amazon Web Services (AWS)](https://youtu.be/yhsQU6uXNMA)
 
-* [How to use Bhadoo Cloud to Upload Torrents or Files to Google Drive](https://youtu.be/ynRkZ1OaQSQ)
+* [Video: How to use Bhadoo Cloud to Upload Torrents or Files to Google Drive](https://youtu.be/ynRkZ1OaQSQ)
 
-* [How to remove Docker Images from AWS Server to Fetch Latest Images](https://youtu.be/SGrB0oo8F_4)
+* [Video: How to remove Docker Images from AWS Server to Fetch Latest Images](https://youtu.be/SGrB0oo8F_4)
+
+* [Proxy Server](https://github.com/ParveenBhadooOfficial/PHP-Web-Proxy)
 
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
@@ -142,4 +144,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 5:58 pm Sunday, 19 September 2019 (IST).
+Document Last Updated on 7:10 pm Sunday, 19 September 2019 (IST).
