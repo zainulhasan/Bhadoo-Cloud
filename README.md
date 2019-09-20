@@ -78,6 +78,16 @@ Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
 * Replace `$USER` with your username, it maybe be `ubuntu` by default.
 * Close Putty and Login again.
+* For Stable Installation (Recommended)
+
+```
+  docker run --name ct -d -p 80:3000 \
+    --restart always \
+    -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' \
+    parveenbhadoo/bhadoocloud:stable node server/server.js
+```
+
+* For Latest Installation (Experimental, may not work)
 
 ```
   docker run --name ct -d -p 80:3000 \
@@ -144,4 +154,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 2:23 pm Sunday, 20 September 2019 (IST).
+Document Last Updated on 9:30 pm Sunday, 20 September 2019 (IST).
