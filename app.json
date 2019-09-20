@@ -1,7 +1,7 @@
 {
     "name": "Bhadoo Cloud",
     "description": "Directly upload files to Cloud",
-    "repository": "https://github.com/ParveenBhadooOfficial/BhadooCloud",
+    "repository": "https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
