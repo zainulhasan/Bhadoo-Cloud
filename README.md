@@ -4,7 +4,7 @@
 
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
-Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server1.bhadoocloud.ga)
+Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server1.bhadoocloud.ga) and [Demo Site Status](https://site-status.hashapp.ga/?q=server1.bhadoocloud.ga)
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)
@@ -144,4 +144,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 7:10 pm Sunday, 19 September 2019 (IST).
+Document Last Updated on 11:34 am Sunday, 20 September 2019 (IST).
