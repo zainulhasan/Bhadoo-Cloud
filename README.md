@@ -144,4 +144,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 11:34 am Sunday, 20 September 2019 (IST).
+Document Last Updated on 2:23 pm Sunday, 20 September 2019 (IST).
