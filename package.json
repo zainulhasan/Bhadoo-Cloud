@@ -36,6 +36,6 @@
     "url": "latest"
   },
   "engines": {
-    "node": "latest"
+    "node": "12.10.0"
   }
 }
