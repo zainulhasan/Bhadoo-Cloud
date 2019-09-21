@@ -7,7 +7,7 @@ Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Serve
 Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server1.bhadoocloud.ga) and [Demo Site Status](https://site-status.hashapp.ga/?q=server1.bhadoocloud.ga)
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 ![Docker Pulls](https://img.shields.io/docker/pulls/parveenbhadoo/bhadoocloud.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/parveenbhadoo/bhadoocloud.svg)
 ![Docker Size](https://images.microbadger.com/badges/image/parveenbhadoo/bhadoocloud.svg)
@@ -154,4 +154,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 9:30 pm Sunday, 20 September 2019 (IST).
+Document Last Updated on 10:15 am Sunday, 20 September 2019 (IST).
