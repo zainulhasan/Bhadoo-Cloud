@@ -16,6 +16,7 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 [![GitHub repo size](https://img.shields.io/github/repo-size/parveenbhadooofficial/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![Build Status](https://travis-ci.org/ParveenBhadooOfficial/Bhadoo-Cloud.svg?branch=master)](https://travis-ci.org/ParveenBhadooOfficial/Bhadoo-Cloud)
 [![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
+[![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/BhadooCloud/badge?style=rounded)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/BhadooCloud)
 [![GitHub](https://img.shields.io/github/license/ParveenBhadooOfficial/Bhadoo-Cloud)](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
 
 </div>
@@ -157,4 +158,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 10:55 am Sunday, 20 September 2019 (IST).
+Document Last Updated on 6:57 pm Sunday, 20 September 2019 (IST).
