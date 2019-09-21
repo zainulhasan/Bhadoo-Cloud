@@ -14,7 +14,9 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 [![Docker Version](https://images.microbadger.com/badges/version/parveenbhadoo/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/parveenbhadooofficial/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
+[![Build Status](https://travis-ci.org/ParveenBhadooOfficial/Bhadoo-Cloud.svg?branch=master)](https://travis-ci.org/ParveenBhadooOfficial/Bhadoo-Cloud)
 [![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
+[![GitHub](https://img.shields.io/github/license/ParveenBhadooOfficial/Bhadoo-Cloud)](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
 
 </div>
 
@@ -26,6 +28,7 @@ Info: Heroku is not supported, Use AWS EC2 (1 Year Free), G Cloud (300$ for 1 Ye
 
 Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
+* [Check Out the Video](#resources)
 * Select an Ubuntu 18.xx Server Image
 * Use [Putty](https://www.putty.org/) to Login using SSH
 * Follow the below commands one by one.
@@ -154,4 +157,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 10:31 am Sunday, 20 September 2019 (IST).
+Document Last Updated on 10:55 am Sunday, 20 September 2019 (IST).
