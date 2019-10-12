@@ -148,7 +148,7 @@ Replace Image with Docker Image ID (Multiple Supported)
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
-License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
+License [GPLv3](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
 
 Contributions are Welcome.
 
@@ -157,5 +157,4 @@ Contributions are Welcome.
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
-
-Document Last Updated on 10:52 am Saturday, 12 October 2019 (IST).
+Document Last Updated on 06:33 pm Saturday, 12 October 2019 (IST).
