@@ -105,16 +105,16 @@ Fill `***` with appropriate values from Google Developer Console.
 * You can also Delete the Container using below if needed.
 
 ```
-  docker stop $(docker ps -a -q)
-  docker rm $(docker ps -a -q)
+  sudo docker stop $(docker ps -a -q)
+  sudo docker rm $(docker ps -a -q)
 ```
 
 * You can also remove pulled image to pull latest image again.
 
 ```
-  docker images -a
+  sudo docker images -a
   
-  docker rmi Image Image2
+  sudo docker rmi Image Image2
 ```
 
 Replace Image with Docker Image ID (Multiple Supported)
@@ -158,4 +158,4 @@ Contributions are Welcome.
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 6:57 pm Sunday, 20 September 2019 (IST).
+Document Last Updated on 10:52 am Saturday, 12 October 2019 (IST).
