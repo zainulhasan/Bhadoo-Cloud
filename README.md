@@ -152,10 +152,15 @@ License [GPLv3](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master
 
 Contributions are Welcome.
 
+## Donate for Public Server Maintenance
+
+[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](https://www.paypal.me/FacTooGle)
+[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](https://securegw.paytm.in/link/54577/LL_71921)
+
 ## Supported By
 
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
 
-Document Last Updated on 06:33 pm Saturday, 12 October 2019 (IST).
+Document Last Updated on 08:38 am Friday, 25 October 2019 (IST).
