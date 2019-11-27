@@ -121,10 +121,10 @@ Replace Image with Docker Image ID (Multiple Supported)
 
 # Get Google_Client_ID and Secret
 
-* Open [Google Dev Credentails Site](https://console.developers.google.com/apis/credentials).
+* Open [Google Dev Credentials Site](https://console.developers.google.com/apis/credentials).
 * Create a Project, name as you like.
 * Enable [Drive API](https://console.developers.google.com/apis/library/drive.googleapis.com)
-* In [Credentails Page](https://console.developers.google.com/apis/credentials) Click `Create Credentials` and then Click `OAuth Client ID`.
+* In [Credentials Page](https://console.developers.google.com/apis/credentials) Click `Create Credentials` and then Click `OAuth Client ID`.
 * Select Web Application.
 * In `Authorized JavaScript origins` enter your domain name or IP whichever you are using for Bhadoo Cloud.
 * In `Authorized redirect URIs` enter your domain name or IP with `/oauthCallback` at last.
