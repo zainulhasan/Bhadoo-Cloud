@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var GDrive_1 = require("./GDrive/GDrive");
-// var Mega_1 = require("./Mega/Mega");
+var Mega_1 = require("./Mega/Mega");
 var Storages = /** @class */ (function () {
     function Storages() {
     }
@@ -32,11 +32,11 @@ var Storages = /** @class */ (function () {
         "GDrive": {
             "displayName": "Google Drive",
             "class": GDrive_1.GDrive
-        }/*,
+        },
         "Mega": {
             "displayName": "Mega",
             "class": Mega_1.Mega
-        }*/
+        }
         //Add more storages here
     };
     return Storages;
