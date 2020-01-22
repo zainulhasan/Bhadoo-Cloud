@@ -25,7 +25,7 @@ import * as express from 'express';
 import * as url from 'url';
 //endregion
 //region Constants
-const PORT = Number(process.env.PORT || 80);
+const PORT = Number(process.env.PORT || 3000);
 const FILES_PATH = path.join(__dirname, '../files');
 const SPEED_TICK_TIME = 750;    //ms
 const TBP_PROXY = process.env["TBP_PROXY"] || "https://thepiratebay.org";
