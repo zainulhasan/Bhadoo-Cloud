@@ -16,7 +16,6 @@ sudo apt-get -y update &&
 sudo apt-get -y install docker-ce &&
 sudo docker run hello-world &&
 sudo usermod -a -G docker ubuntu &&
-sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' parveenbhadoo/bhadoocloud node server/server.js &&
 echo
 "
 Installation for requirements completed.
