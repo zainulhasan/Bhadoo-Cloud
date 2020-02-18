@@ -17,10 +17,7 @@ sudo apt-get -y install docker-ce &&
 sudo docker run hello-world &&
 sudo usermod -a -G docker ubuntu &&
 sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' parveenbhadoo/bhadoocloud node server/server.js &&
-echo
-"
-Installation Complete.
+echo "Installation Complete.
 Use http://your-ip-address to connect to server.
 Use Cloudflare Flexible SSL for https.
-Thank you for installing Bhadoo Cloud.
-"
+Thank you for installing Bhadoo Cloud."
