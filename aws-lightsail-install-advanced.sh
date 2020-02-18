@@ -16,7 +16,6 @@ sudo apt-get -y update &&
 sudo apt-get -y install docker-ce &&
 sudo docker run hello-world &&
 sudo usermod -a -G docker ubuntu &&
-echo
-"Installation for requirements completed.
+echo "Installation for requirements completed.
 Read https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud#install-on-aws-lightsail for further steps.
 Thank you for installing Bhadoo Cloud."
