@@ -123,15 +123,21 @@ Replace Image with Docker Image ID (Multiple Supported)
 
 * This will install and deploy (GDrive won't work)
 
-`bash <(curl -s https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/aws-lightsail-install.sh)`
+```
+bash <(curl -s https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/aws-lightsail-install.sh)
+```
 
 * This will install requirements only (edit next command with required details)
 
-`bash <(curl -s https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/aws-lightsail-install-advanced.sh)`
+```
+bash <(curl -s https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/aws-lightsail-install-advanced.sh)
+```
 
 * Fill *** with required details first
 
-`sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' parveenbhadoo/bhadoocloud node server/server.js`
+```
+sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='***' -e GOOGLE_CLIENT_SECRET='***' -e GOOGLE_REDIRECT_URL='***/oauthCallback' parveenbhadoo/bhadoocloud node server/server.js
+```
 
 # Get Google_Client_ID and Secret
 
