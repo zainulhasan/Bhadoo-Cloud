@@ -175,7 +175,7 @@ Contributions are Welcome.
 ## Donate for Public Server Maintenance
 
 [<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](https://www.paypal.me/FacTooGle)
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](https://securegw.paytm.in/link/54577/LL_71921)
+[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](https://bit.ly/BhadooPay)
 
 ## Supported By
 
