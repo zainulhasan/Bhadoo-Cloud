@@ -1,10 +1,4 @@
-<div align="center">
-
-[<img src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="80" />](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
-
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
-
-Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server1.bhadoocloud.ga) and [Demo Site Status](https://site-status.hashapp.ga/?q=server1.bhadoocloud.ga)
 
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
@@ -18,8 +12,6 @@ Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https:/
 [![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/BhadooCloud/badge?style=rounded)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/BhadooCloud)
 [![GitHub](https://img.shields.io/github/license/ParveenBhadooOfficial/Bhadoo-Cloud)](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
-
-</div>
 
 [![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/.github/screenshot02.png)](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
 
@@ -172,10 +164,9 @@ License [GPLv3](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master
 
 Contributions are Welcome.
 
-## Donate for Public Server Maintenance
+## Support this Project
 
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](https://www.paypal.me/FacTooGle)
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](https://bit.ly/BhadooPay)
+[![Support](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)](https://www.buymeacoffee.com/bhadoo)
 
 ## Supported By
 
